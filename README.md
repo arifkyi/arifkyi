@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifkyi
 - 👀 I’m interested in Telecommunication Protocol, Radio Frequency, SS7, diameter
-- 🌱 I’m currently sharing in youtube channel **https://www.youtube.com/c/RifkyTheCyber**
+- 🌱 I’m currently content creator in youtube channel **https://www.youtube.com/c/RifkyTheCyber**
 - 💞️ I’m looking to collaborate on anything that related with Radio Frequency, Cyber Security, Sigtran etc
 - 📫 How to reach me ... dm me in my instagram.com/rifky_the_cyber
 
