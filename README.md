@@ -7,6 +7,10 @@
 
 If you find this tool helpful and would like to support its development, you can buy me a coffee!
 
+## ☕ Support Me, Support Rifky The Cyber YouTube Channel
+
+If you find this tool helpful and would like to support its development, you can buy me a coffee!
+
 **[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
 
 Or scan the QR code below:
