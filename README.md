@@ -14,6 +14,7 @@ If you find this tool helpful and would like to support its development, you can
 **[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
 
 Or scan the QR code below:
+
 <img src="https://github.com/user-attachments/assets/a6529b25-06eb-4072-9077-6682aad0807a" alt="Donate" width="200">
 
 <!---
